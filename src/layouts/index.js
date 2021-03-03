@@ -7,7 +7,7 @@ import post from './post';
 export {
     advanced,
     blog,
-    doc,
+    docs,
     page,
     post
 };
