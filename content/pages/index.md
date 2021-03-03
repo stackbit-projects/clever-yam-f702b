@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - label: Get Started
-        url: /docs
+        url: /blog
         style: primary
   - section_id: features
     type: section_grid
